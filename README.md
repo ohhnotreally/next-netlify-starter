@@ -14,11 +14,11 @@ This project is a very minimal starter that includes 2 sample components, a glob
 
 First, run the development server:
 
-```bash
+bash
 npm run dev
 # or
 yarn dev
-```
+// This is the ommand to deploy the project on your local
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
